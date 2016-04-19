@@ -1,6 +1,6 @@
 ---
 title: index page
-redirect_url: http://www.google.com
+redirect_url: http://www.bing.com
 ---
 
 # Index test file for Open Publishing
