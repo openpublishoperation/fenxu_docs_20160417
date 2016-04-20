@@ -1,5 +1,4 @@
 ---
-title: index page
 redirect_url: http://www.bing.com
 ---
 
