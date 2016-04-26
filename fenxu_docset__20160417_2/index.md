@@ -1,6 +1,6 @@
 ---
 title: Get Started test
-redirect_url: test
+redirect_url: ppp
 ---
 
 
