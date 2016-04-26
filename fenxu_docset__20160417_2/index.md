@@ -1,5 +1,6 @@
 ---
-title: redirect test case: no redirect_Url meta data
+title: Get Started test
+redirect_url: /en-us/microsoft-identity-manager/understand/microsoft-identity-manager-2016
 ---
 
 
