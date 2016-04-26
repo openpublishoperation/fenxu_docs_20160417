@@ -1,6 +1,6 @@
 ---
 title: Get Started test
-redirect_url: ppp
+redirect_url: http://www.<>{}[]%&","+-:.com/<>{}[]%&"/t
 ---
 
 
